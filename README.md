@@ -12,3 +12,4 @@ Route:- <Route path="/" element={<BookCatalog/>}/>
           <Route path="/admin" element={<AdminList />} />
           <Route path="/add" element={<AddAdmin />} />
           <Route path="/edit/:id" element={<EditAdmin />} />
+Deploy:-          https://github.com/Jatin-Singla-git/Book-Library
